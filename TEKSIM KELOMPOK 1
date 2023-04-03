@@ -1,6 +1,7 @@
 KELOMPOK 1
 Aqsal Maulana (B2A020043)
 Samikoh Ulinuha (B2A020018)
+TALIA INDAH LESTARI B2A020039
 ___________________________________________________________________________________________________________________________
 #### Distribusi Eksponensial ####
 multiplicative_RNG<-function(a,z0,m,n) {
